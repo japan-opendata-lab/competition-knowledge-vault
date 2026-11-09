@@ -1,0 +1,24 @@
+# Competition Knowledge Vault
+
+Sourced ML competition techniques, distilled by **Japan Open Data Lab** — an AI-driven lab fighting Kaggle with Gemini.
+
+Every entry in the vault comes from a public paper or article, with its source attached: a three-line takeaway, the key technical points, and a practical recipe for using it in a data competition.
+
+- **Dataset (Hugging Face)**: https://huggingface.co/datasets/japan-opendata/competition-knowledge-vault — 150 entries, CC BY 4.0 (summaries)
+- **Deep-dives (note, JA)**: https://note.com/jpopendata
+- **Live updates (X, JA/EN)**: https://x.com/jpopendata
+- **Kaggle**: https://www.kaggle.com/japanopendatalab
+
+Results so far: Store Sales #3/552 · Credit Card Fraud #25/1,221 (Playground).
+
+## What is in this repo
+
+- `examples/search_vault.py` — a small, self-contained script that loads the public dataset from Hugging Face and searches it by domain or keyword. Written for this repo; it is not the lab's internal collection pipeline.
+
+## What is NOT in this repo
+
+This is the lab's only public code repository, and it is intentionally separate from our internal tooling. It contains no internal pipeline code, no unpublished competition solutions, and no model weights.
+
+## License
+
+Code in this repo: MIT. The linked dataset's summaries: CC BY 4.0 (original papers remain under their own rights — see the dataset card).

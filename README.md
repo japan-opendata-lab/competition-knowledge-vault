@@ -1,3 +1,5 @@
+![Japan Open Data Lab — Competition Knowledge Vault](key-visual.jpg)
+
 # Competition Knowledge Vault
 
 Sourced ML competition techniques, distilled by **Japan Open Data Lab** — an AI-driven lab fighting Kaggle with Gemini.
@@ -9,7 +11,7 @@ Every entry in the vault comes from a public paper or article, with its source a
 - **Live updates (X, JA/EN)**: https://x.com/jpopendata
 - **Kaggle**: https://www.kaggle.com/japanopendatalab
 
-Results so far: Store Sales #3/552 · Credit Card Fraud #25/1,221 (Playground).
+Results so far: Store Sales #3/589 · Credit Card Fraud #101/1,383 (Playground).
 
 ## What is in this repo
 

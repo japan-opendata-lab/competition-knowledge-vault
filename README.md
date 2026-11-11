@@ -12,7 +12,9 @@ Every entry in the vault comes from a public paper or article, with its source a
 - **Live updates (X, JA/EN)**: https://x.com/jpopendata
 - **Kaggle**: https://www.kaggle.com/japanopendatalab
 
-Results so far: Store Sales #3/589 · Credit Card Fraud #101/1,383 (Playground).
+## Track record
+
+Fighting Kaggle with Gemini (Store Sales #3/589, Fraud #101/1,383 as of Nov 12, 2026). A 150-item, fully sourced competition knowledge vault. Creators of the "What prefecture are you?" statistics quiz built on official data for all 47 prefectures and 1,741 municipalities in Japan. Our datasets are fully audited — we publish what we verified and what we haven't.
 
 ## What is in this repo
 

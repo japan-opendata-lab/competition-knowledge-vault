@@ -7,14 +7,14 @@ Sourced ML competition techniques, distilled by **Japan Open Data Lab** — an A
 Every entry in the vault comes from a public paper or article, with its source attached: a three-line takeaway, the key technical points, and a practical recipe for using it in a data competition.
 
 - **Official site**: https://jpopendata.jp — home of *"What Prefecture Are You?"*, a light-hearted diagnosis that matches you to one of Japan's 47 prefectures using real published statistics: https://jpopendata.jp/shindan/
-- **Dataset (Hugging Face)**: https://huggingface.co/datasets/japan-opendata/competition-knowledge-vault — 150 entries, CC BY 4.0 (summaries)
+- **Dataset (Hugging Face)**: https://huggingface.co/datasets/japan-opendata/competition-knowledge-vault — currently 150 entries and growing, CC BY 4.0 (summaries)
 - **Deep-dives (note, JA)**: https://note.com/jpopendata
 - **Live updates (X, JA/EN)**: https://x.com/jpopendata
 - **Kaggle**: https://www.kaggle.com/japanopendatalab
 
 ## Track record
 
-Fighting Kaggle with Gemini (Store Sales #3/612, Fraud #142/1,519 as of Nov 12, 2026). A 150-item, fully sourced competition knowledge vault. Creators of the "What prefecture are you?" statistics quiz built on official data for all 47 prefectures and 1,741 municipalities in Japan. Our datasets are fully audited — we publish what we verified and what we haven't.
+Fighting Kaggle with Gemini (Store Sales #3/612, Fraud #142/1,519 as of Nov 12, 2026). A fully sourced competition knowledge vault — currently 150 items and growing. Creators of the "What prefecture are you?" statistics quiz built on official data for all 47 prefectures and 1,741 municipalities in Japan. Our datasets are fully audited — we publish what we verified and what we haven't.
 
 ## What is in this repo
 

@@ -14,7 +14,7 @@ Every entry in the vault comes from a public paper or article, with its source a
 
 ## Track record
 
-Fighting Kaggle with Gemini (Store Sales #3/612, Fraud #142/1,519 as of Nov 12, 2026). A fully sourced competition knowledge vault — currently 150 items and growing. Creators of the "What prefecture are you?" statistics quiz built on official data for all 47 prefectures and 1,741 municipalities in Japan. Our datasets are fully audited — we publish what we verified and what we haven't.
+Fighting Kaggle with Gemini (Store Sales #3/609, Fraud #193/1,622 as of Nov 13, 2026). A fully sourced competition knowledge vault — currently 150 items and growing. Creators of the "What prefecture are you?" statistics quiz built on official data for all 47 prefectures and 1,741 municipalities in Japan. Our datasets are fully audited — we publish what we verified and what we haven't.
 
 ## What is in this repo
 

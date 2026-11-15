@@ -2,6 +2,9 @@
 
 # Competition Knowledge Vault
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Dataset on Hugging Face](https://img.shields.io/badge/Dataset-Hugging%20Face-blue)](https://huggingface.co/datasets/japan-opendata/competition-knowledge-vault)
+
 Sourced ML competition techniques, distilled by **Japan Open Data Lab** — an AI-driven lab fighting Kaggle with Gemini.
 
 Every entry in the vault comes from a public paper or article, with its source attached: a three-line takeaway, the key technical points, and a practical recipe for using it in a data competition.
@@ -11,6 +14,18 @@ Every entry in the vault comes from a public paper or article, with its source a
 - **Deep-dives (note, JA)**: https://note.com/jpopendata
 - **Live updates (X, JA/EN)**: https://x.com/jpopendata
 - **Kaggle**: https://www.kaggle.com/japanopendatalab
+
+## Quickstart
+
+Try the public dataset in under a minute with the example script in this repo:
+
+```bash
+pip install datasets
+python examples/search_vault.py --domain TimeSeries
+python examples/search_vault.py --keyword "conformal"
+```
+
+The script loads the public Hugging Face dataset and prints the top matching entries with their sources.
 
 ## Track record
 

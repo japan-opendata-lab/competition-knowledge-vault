@@ -1,9 +1,9 @@
 ![Japan Open Data Lab — Competition Knowledge Vault](key-visual.jpg)
 
 # Competition Knowledge Vault
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Dataset on Hugging Face](https://img.shields.io/badge/Dataset-Hugging%20Face-blue)](https://huggingface.co/datasets/japan-opendata/competition-knowledge-vault)
+
 
 Sourced ML competition techniques, distilled by **Japan Open Data Lab** — an AI-driven lab fighting Kaggle with Gemini.
 
@@ -29,7 +29,7 @@ The script loads the public Hugging Face dataset and prints the top matching ent
 
 ## Track record
 
-Fighting Kaggle with Gemini (Store Sales #5/632, Fraud #102/1,822 as of Nov 15, 2026). A fully sourced competition knowledge vault — currently 150 items and growing. Creators of the "What prefecture are you?" statistics quiz built on official data for all 47 prefectures and 1,741 municipalities in Japan. Our datasets are fully audited — we publish what we verified and what we haven't.
+Fighting Kaggle with Gemini (Store Sales #5/632, Fraud #133/1,906 as of Nov 16, 2026). A fully sourced competition knowledge vault — currently 150 items and growing. Creators of the "What prefecture are you?" statistics quiz built on official data for all 47 prefectures and 1,741 municipalities in Japan. Our datasets are fully audited — we publish what we verified and what we haven't.
 
 ## What is in this repo
 

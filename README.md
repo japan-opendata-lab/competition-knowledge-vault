@@ -29,7 +29,7 @@ The script loads the public Hugging Face dataset and prints the top matching ent
 
 ## Track record
 
-Fighting Kaggle with Gemini (Store Sales #1/663, Fraud #197/2,126 as of Nov 18, 2026). A fully sourced competition knowledge vault — currently 150 items and growing. Creators of the "What prefecture are you?" statistics quiz built on official data for all 47 prefectures and 1,741 municipalities in Japan. Our datasets are fully audited — we publish what we verified and what we haven't.
+Fighting Kaggle with Gemini (Store Sales #2/671, Fraud #16/2,253 as of Nov 19, 2026). A fully sourced competition knowledge vault — currently 150 items and growing. Creators of the "What prefecture are you?" statistics quiz built on official data for all 47 prefectures and 1,741 municipalities in Japan. Our datasets are fully audited — we publish what we verified and what we haven't.
 
 ## What is in this repo
 

@@ -10,6 +10,7 @@ Sourced ML competition techniques, distilled by **Japan Open Data Lab** — an A
 Every entry in the vault comes from a public paper or article, with its source attached: a three-line takeaway, the key technical points, and a practical recipe for using it in a data competition.
 
 - **Official site**: https://jpopendata.jp — home of *"What Prefecture Are You?"*, a light-hearted diagnosis that matches you to one of Japan's 47 prefectures using real published statistics: https://jpopendata.jp/shindan/
+- **Japanese AI models**: https://jpopendata.jp/models/ — free Japanese AI models and developer tools from the lab (pages in Japanese)
 - **Dataset (Hugging Face)**: https://huggingface.co/datasets/japan-opendata/competition-knowledge-vault — currently 150 entries and growing, CC BY 4.0 (summaries)
 - **Deep-dives (note, JA)**: https://note.com/jpopendata
 - **Live updates (X, JA/EN)**: https://x.com/jpopendata

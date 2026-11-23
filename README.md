@@ -38,7 +38,7 @@ Fighting Kaggle with Gemini (Store Sales #9/715, Fraud #19/2,730 as of Nov 23, 2
 
 ## What is NOT in this repo
 
-This is the lab's only public code repository, and it is intentionally separate from our internal tooling. It contains no internal pipeline code, no unpublished competition solutions, and no model weights.
+This repository is intentionally separate from our internal tooling. It contains no internal pipeline code, no unpublished competition solutions, and no model weights.
 
 ## License
 

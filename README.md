@@ -28,6 +28,10 @@ python examples/search_vault.py --keyword "conformal"
 
 The script loads the public Hugging Face dataset and prints the top matching entries with their sources.
 
+## Free sample data
+
+- **[Japan Prefecture Behavior & Consumption Master — free sample](samples/prefecture-behavior-consumption/)** — a cleaned, analysis-ready table of how people in Japan's 47 prefectures eat, spend, commute, sleep and learn (47 rows × 18 columns), with a full data dictionary and our verification report. Free to use, including commercially, under the terms of the original official statistics — please keep the source attributions listed in the sample folder.
+
 ## Track record
 
 Fighting Kaggle with Gemini (Store Sales #19/771, Fraud #215/3,147 as of Nov 26, 2026). A fully sourced competition knowledge vault — currently 150 items and growing. Creators of the "What prefecture are you?" statistics quiz built on official data for all 47 prefectures and 1,741 municipalities in Japan. Our datasets are fully audited — we publish what we verified and what we haven't.
@@ -35,6 +39,7 @@ Fighting Kaggle with Gemini (Store Sales #19/771, Fraud #215/3,147 as of Nov 26,
 ## What is in this repo
 
 - `examples/search_vault.py` — a small, self-contained script that loads the public dataset from Hugging Face and searches it by domain or keyword. Written for this repo; it is not the lab's internal collection pipeline.
+- `samples/prefecture-behavior-consumption/` — the free sample data described above (CSV, data dictionary, and data quality report).
 
 ## What is NOT in this repo
 
